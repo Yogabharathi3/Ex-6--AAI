@@ -1,7 +1,7 @@
 <H3>NAME:Yogabharathi S</H3>
 <H3>REGISTER NO:212222230179</H3>
 <H3>EX.NO:6</H3>
-<H3>DATE:21/10/2024</H3>
+<H3>DATE:09/09/2024</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
 ## AIM:
